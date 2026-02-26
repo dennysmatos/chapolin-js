@@ -11,6 +11,7 @@ module.exports = [
   'Dr. Chapatin',
   'Honorável Kassamba Urinawa',
   'Honorável Karateka Simpato Amazaki',
+  'Honorável Saiporaí Taporaí',
   'Conde Terra Nova',
   'Pépe',
   'Seu Trocadeiro',
